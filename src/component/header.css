@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    padding: 20px;
+    justify-Content: space-between;
+    background: Green;
+    color: white;
+    font-Family: Arial,sans-serif;
+    font-Weight: bold;
+    align-items: center;
+}
+
+.header a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.2s;
+}
+
+.header a:hover {
+    color: #f9a825;
+}

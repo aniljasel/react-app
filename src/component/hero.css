@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background: blue;
+    text-align: center;
+    height: 57vh;
+    align-content: center;
+    padding: 0;
+}
+
+.hero h1 {
+    background-color: none;
+    color: white;
+    font-size: 5rem;
+}
